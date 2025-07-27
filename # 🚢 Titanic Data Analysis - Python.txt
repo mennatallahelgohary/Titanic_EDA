@@ -1,0 +1,63 @@
+# 🚢 Titanic Data Analysis - Python Project
+
+## 📁 Project Overview
+This project performs exploratory data analysis (EDA) on the Titanic dataset to uncover patterns related to survival based on demographics and travel class.
+
+---
+
+## 🧾 Dataset
+- **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
+- **Records:** 891 passengers
+- **Features:** Name, Sex, Age, Pclass, SibSp, Parch, Fare, Cabin, Embarked, Survived
+
+---
+
+## 🎯 Goals
+- Understand key factors affecting survival.
+- Clean and prepare the dataset.
+- Visualize trends using graphs.
+
+---
+
+## 🛠 Tools & Libraries
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+---
+
+## 📊 Key Visualizations
+- Survival by Gender, Class, Age
+- Heatmap of correlations
+- Distribution of Age and Fare
+- Countplot for Embarked ports
+
+---
+
+## 💡 Key Findings
+- 👩 Females had a significantly higher survival rate.
+- 🛏️ Passengers in 1st class were more likely to survive.
+- 👶 Children aged 0–10 had a higher survival rate than other age groups.
+
+---
+
+## 🔍 Bonus Work
+- Cleaned null values using strategies like median imputation and mode.
+- Created new age group features.
+- Built custom visualizations with seaborn.
+
+---
+
+## 🧠 Learnings
+- Data preprocessing and handling nulls.
+- EDA best practices with visual storytelling.
+- Understanding real-life implications of features.
+
+---
+
+## 👩‍💻 Created by:
+**Manna Ahmed Saad**  
+📍 Egypt  
+💼 [LinkedIn](https://linkedin.com/in/mennatallahelgohary/) | 📧 mennaelgohhary2@gmail.com
+
